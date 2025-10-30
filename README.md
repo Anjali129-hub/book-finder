@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # book-finder
 A fast and user-friendly web app for searching, discovering, and saving your favorite books.
 =======
@@ -73,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 6ea3c2d (Initialize project using Create React App)
+=======
+>>>>>>> 77ae98a (Added new components, images, and updated project files)
