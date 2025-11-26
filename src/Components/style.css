@@ -69,12 +69,22 @@ html{
     font-weight: bold;
     outline: 0;
 }
-.search button{
-   outline: none;
-   border: none;
-   height: 35px;
-   padding: 0 0.5rem;
+.search button {
+  outline: none;
+  border: none;
+  height: 35px;
+  padding: 0 0.5rem;
+  cursor: pointer;       
+  background-color: #fff; 
+  color: #060606ff;          
+  border-radius: 5px;   
+  transition: 0.3s;      
 }
+
+.search button:hover {
+  background-color: #755139FF; 
+}
+
 .container{
     width: 65%;
     margin: 0 auto;
